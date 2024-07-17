@@ -1,3 +1,4 @@
 # Atari-games-Reinforcment-learning
-a python program to solve different atari-games from the openAI gym library. using Reinforcment learning and Q-learning, and creating a C# interface to interact with this program.
+I Implemented a Python project to solve five Atari games using Reinforcement Learning and Q-learning, with PyTorch, OpenCV, and Matplotlib. Developed a C# interface for user interaction and monitoring model training, showcasing skills in Python, C#, and relevant tools.
+
 
